@@ -1,0 +1,1681 @@
+{
+    "0135.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "0135.jpg", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "0135.jpg", 
+        "filename": "/c4x/CA/CA0.1/asset/0135.jpg", 
+        "import_path": "0135.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "0135.jpg", 
+            null
+        ]
+    }, 
+    "0135.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "0135.png", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "0135.png", 
+        "filename": "/c4x/CA/CA0.1/asset/0135.png", 
+        "import_path": "0135.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "0135-png.jpg", 
+            null
+        ]
+    }, 
+    "0467.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "0467.jpg", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "0467.jpg", 
+        "filename": "/c4x/CA/CA0.1/asset/0467.jpg", 
+        "import_path": "0467.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "0467.jpg", 
+            null
+        ]
+    }, 
+    "0467.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "0467.png", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "0467.png", 
+        "filename": "/c4x/CA/CA0.1/asset/0467.png", 
+        "import_path": "0467.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "0467-png.jpg", 
+            null
+        ]
+    }, 
+    "0662.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "0662.jpg", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "0662.jpg", 
+        "filename": "/c4x/CA/CA0.1/asset/0662.jpg", 
+        "import_path": "0662.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "0662.jpg", 
+            null
+        ]
+    }, 
+    "0662.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "0662.png", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "0662.png", 
+        "filename": "/c4x/CA/CA0.1/asset/0662.png", 
+        "import_path": "0662.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "0662-png.jpg", 
+            null
+        ]
+    }, 
+    "1010.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "1010.jpg", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "1010.jpg", 
+        "filename": "/c4x/CA/CA0.1/asset/1010.jpg", 
+        "import_path": "1010.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "1010.jpg", 
+            null
+        ]
+    }, 
+    "1178.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "1178.png", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "1178.png", 
+        "filename": "/c4x/CA/CA0.1/asset/1178.png", 
+        "import_path": "1178.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "1178-png.jpg", 
+            null
+        ]
+    }, 
+    "1181.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "1181.png", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "1181.png", 
+        "filename": "/c4x/CA/CA0.1/asset/1181.png", 
+        "import_path": "1181.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "1181-png.jpg", 
+            null
+        ]
+    }, 
+    "1308.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "1308.jpg", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "1308.jpg", 
+        "filename": "/c4x/CA/CA0.1/asset/1308.jpg", 
+        "import_path": "1308.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "1308.jpg", 
+            null
+        ]
+    }, 
+    "1641.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "1641.jpg", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "1641.jpg", 
+        "filename": "/c4x/CA/CA0.1/asset/1641.jpg", 
+        "import_path": "1641.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "1641.jpg", 
+            null
+        ]
+    }, 
+    "1733.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "1733.jpg", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "1733.jpg", 
+        "filename": "/c4x/CA/CA0.1/asset/1733.jpg", 
+        "import_path": "1733.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "1733.jpg", 
+            null
+        ]
+    }, 
+    "1765.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "1765.jpg", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "1765.jpg", 
+        "filename": "/c4x/CA/CA0.1/asset/1765.jpg", 
+        "import_path": "1765.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "1765.jpg", 
+            null
+        ]
+    }, 
+    "1820.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "1820.jpg", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "1820.jpg", 
+        "filename": "/c4x/CA/CA0.1/asset/1820.jpg", 
+        "import_path": "1820.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "1820.jpg", 
+            null
+        ]
+    }, 
+    "1876.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "1876.gif", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "1876.gif", 
+        "filename": "/c4x/CA/CA0.1/asset/1876.gif", 
+        "import_path": "1876.gif", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "1876-gif.jpg", 
+            null
+        ]
+    }, 
+    "2050.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "2050.gif", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "2050.gif", 
+        "filename": "/c4x/CA/CA0.1/asset/2050.gif", 
+        "import_path": "2050.gif", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "2050-gif.jpg", 
+            null
+        ]
+    }, 
+    "2246.JPG": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "2246.JPG", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "2246.JPG", 
+        "filename": "/c4x/CA/CA0.1/asset/2246.JPG", 
+        "import_path": "2246.JPG", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "2246-JPG.jpg", 
+            null
+        ]
+    }, 
+    "2405.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "2405.gif", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "2405.gif", 
+        "filename": "/c4x/CA/CA0.1/asset/2405.gif", 
+        "import_path": "2405.gif", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "2405-gif.jpg", 
+            null
+        ]
+    }, 
+    "2405.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "2405.jpg", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "2405.jpg", 
+        "filename": "/c4x/CA/CA0.1/asset/2405.jpg", 
+        "import_path": "2405.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "2405.jpg", 
+            null
+        ]
+    }, 
+    "2530.JPG": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "2530.JPG", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "2530.JPG", 
+        "filename": "/c4x/CA/CA0.1/asset/2530.JPG", 
+        "import_path": "2530.JPG", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "2530-JPG.jpg", 
+            null
+        ]
+    }, 
+    "2698.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "2698.jpg", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "2698.jpg", 
+        "filename": "/c4x/CA/CA0.1/asset/2698.jpg", 
+        "import_path": "2698.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "2698.jpg", 
+            null
+        ]
+    }, 
+    "2815.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "2815.gif", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "2815.gif", 
+        "filename": "/c4x/CA/CA0.1/asset/2815.gif", 
+        "import_path": "2815.gif", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "2815-gif.jpg", 
+            null
+        ]
+    }, 
+    "3102.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "3102.gif", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "3102.gif", 
+        "filename": "/c4x/CA/CA0.1/asset/3102.gif", 
+        "import_path": "3102.gif", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "3102-gif.jpg", 
+            null
+        ]
+    }, 
+    "3311.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "3311.gif", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "3311.gif", 
+        "filename": "/c4x/CA/CA0.1/asset/3311.gif", 
+        "import_path": "3311.gif", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "3311-gif.jpg", 
+            null
+        ]
+    }, 
+    "3333.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "3333.jpg", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "3333.jpg", 
+        "filename": "/c4x/CA/CA0.1/asset/3333.jpg", 
+        "import_path": "3333.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "3333.jpg", 
+            null
+        ]
+    }, 
+    "3397.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "3397.jpg", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "3397.jpg", 
+        "filename": "/c4x/CA/CA0.1/asset/3397.jpg", 
+        "import_path": "3397.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "3397.jpg", 
+            null
+        ]
+    }, 
+    "3403.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "3403.gif", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "3403.gif", 
+        "filename": "/c4x/CA/CA0.1/asset/3403.gif", 
+        "import_path": "3403.gif", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "3403-gif.jpg", 
+            null
+        ]
+    }, 
+    "3463.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "3463.gif", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "3463.gif", 
+        "filename": "/c4x/CA/CA0.1/asset/3463.gif", 
+        "import_path": "3463.gif", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "3463-gif.jpg", 
+            null
+        ]
+    }, 
+    "3501.JPG": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "3501.JPG", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "3501.JPG", 
+        "filename": "/c4x/CA/CA0.1/asset/3501.JPG", 
+        "import_path": "3501.JPG", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "3501-JPG.jpg", 
+            null
+        ]
+    }, 
+    "3539.JPG": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "3539.JPG", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "3539.JPG", 
+        "filename": "/c4x/CA/CA0.1/asset/3539.JPG", 
+        "import_path": "3539.JPG", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "3539-JPG.jpg", 
+            null
+        ]
+    }, 
+    "3738.JPG": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "3738.JPG", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "3738.JPG", 
+        "filename": "/c4x/CA/CA0.1/asset/3738.JPG", 
+        "import_path": "3738.JPG", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "3738-JPG.jpg", 
+            null
+        ]
+    }, 
+    "4057.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "4057.gif", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "4057.gif", 
+        "filename": "/c4x/CA/CA0.1/asset/4057.gif", 
+        "import_path": "4057.gif", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "4057-gif.jpg", 
+            null
+        ]
+    }, 
+    "4144.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "4144.gif", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "4144.gif", 
+        "filename": "/c4x/CA/CA0.1/asset/4144.gif", 
+        "import_path": "4144.gif", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "4144-gif.jpg", 
+            null
+        ]
+    }, 
+    "4454.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "4454.gif", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "4454.gif", 
+        "filename": "/c4x/CA/CA0.1/asset/4454.gif", 
+        "import_path": "4454.gif", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "4454-gif.jpg", 
+            null
+        ]
+    }, 
+    "4560.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "4560.gif", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "4560.gif", 
+        "filename": "/c4x/CA/CA0.1/asset/4560.gif", 
+        "import_path": "4560.gif", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "4560-gif.jpg", 
+            null
+        ]
+    }, 
+    "4748.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "4748.gif", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "4748.gif", 
+        "filename": "/c4x/CA/CA0.1/asset/4748.gif", 
+        "import_path": "4748.gif", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "4748-gif.jpg", 
+            null
+        ]
+    }, 
+    "4872.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "4872.gif", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "4872.gif", 
+        "filename": "/c4x/CA/CA0.1/asset/4872.gif", 
+        "import_path": "4872.gif", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "4872-gif.jpg", 
+            null
+        ]
+    }, 
+    "4953.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "4953.gif", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "4953.gif", 
+        "filename": "/c4x/CA/CA0.1/asset/4953.gif", 
+        "import_path": "4953.gif", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "4953-gif.jpg", 
+            null
+        ]
+    }, 
+    "5255.JPG": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "5255.JPG", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "5255.JPG", 
+        "filename": "/c4x/CA/CA0.1/asset/5255.JPG", 
+        "import_path": "5255.JPG", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "5255-JPG.jpg", 
+            null
+        ]
+    }, 
+    "5534.JPG": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "5534.JPG", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "5534.JPG", 
+        "filename": "/c4x/CA/CA0.1/asset/5534.JPG", 
+        "import_path": "5534.JPG", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "5534-JPG.jpg", 
+            null
+        ]
+    }, 
+    "5552.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "5552.jpg", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "5552.jpg", 
+        "filename": "/c4x/CA/CA0.1/asset/5552.jpg", 
+        "import_path": "5552.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "5552.jpg", 
+            null
+        ]
+    }, 
+    "5555.JPG": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "5555.JPG", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "5555.JPG", 
+        "filename": "/c4x/CA/CA0.1/asset/5555.JPG", 
+        "import_path": "5555.JPG", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "5555-JPG.jpg", 
+            null
+        ]
+    }, 
+    "5651.JPG": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "5651.JPG", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "5651.JPG", 
+        "filename": "/c4x/CA/CA0.1/asset/5651.JPG", 
+        "import_path": "5651.JPG", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "5651-JPG.jpg", 
+            null
+        ]
+    }, 
+    "5666.JPG": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "5666.JPG", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "5666.JPG", 
+        "filename": "/c4x/CA/CA0.1/asset/5666.JPG", 
+        "import_path": "5666.JPG", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "5666-JPG.jpg", 
+            null
+        ]
+    }, 
+    "5667.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "5667.jpg", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "5667.jpg", 
+        "filename": "/c4x/CA/CA0.1/asset/5667.jpg", 
+        "import_path": "5667.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "5667.jpg", 
+            null
+        ]
+    }, 
+    "5668.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "5668.jpg", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "5668.jpg", 
+        "filename": "/c4x/CA/CA0.1/asset/5668.jpg", 
+        "import_path": "5668.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "5668.jpg", 
+            null
+        ]
+    }, 
+    "5669.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "5669.jpg", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "5669.jpg", 
+        "filename": "/c4x/CA/CA0.1/asset/5669.jpg", 
+        "import_path": "5669.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "5669.jpg", 
+            null
+        ]
+    }, 
+    "5700.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "5700.jpg", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "5700.jpg", 
+        "filename": "/c4x/CA/CA0.1/asset/5700.jpg", 
+        "import_path": "5700.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "5700.jpg", 
+            null
+        ]
+    }, 
+    "5701.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "5701.gif", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "5701.gif", 
+        "filename": "/c4x/CA/CA0.1/asset/5701.gif", 
+        "import_path": "5701.gif", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "5701-gif.jpg", 
+            null
+        ]
+    }, 
+    "5996.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "5996.gif", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "5996.gif", 
+        "filename": "/c4x/CA/CA0.1/asset/5996.gif", 
+        "import_path": "5996.gif", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "5996-gif.jpg", 
+            null
+        ]
+    }, 
+    "6123.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "6123.gif", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "6123.gif", 
+        "filename": "/c4x/CA/CA0.1/asset/6123.gif", 
+        "import_path": "6123.gif", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "6123-gif.jpg", 
+            null
+        ]
+    }, 
+    "6171.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "6171.gif", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "6171.gif", 
+        "filename": "/c4x/CA/CA0.1/asset/6171.gif", 
+        "import_path": "6171.gif", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "6171-gif.jpg", 
+            null
+        ]
+    }, 
+    "6291.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "6291.gif", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "6291.gif", 
+        "filename": "/c4x/CA/CA0.1/asset/6291.gif", 
+        "import_path": "6291.gif", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "6291-gif.jpg", 
+            null
+        ]
+    }, 
+    "6400.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "6400.gif", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "6400.gif", 
+        "filename": "/c4x/CA/CA0.1/asset/6400.gif", 
+        "import_path": "6400.gif", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "6400-gif.jpg", 
+            null
+        ]
+    }, 
+    "6506.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "6506.gif", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "6506.gif", 
+        "filename": "/c4x/CA/CA0.1/asset/6506.gif", 
+        "import_path": "6506.gif", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "6506-gif.jpg", 
+            null
+        ]
+    }, 
+    "6575.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "6575.gif", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "6575.gif", 
+        "filename": "/c4x/CA/CA0.1/asset/6575.gif", 
+        "import_path": "6575.gif", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "6575-gif.jpg", 
+            null
+        ]
+    }, 
+    "6828.JPG": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "6828.JPG", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "6828.JPG", 
+        "filename": "/c4x/CA/CA0.1/asset/6828.JPG", 
+        "import_path": "6828.JPG", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "6828-JPG.jpg", 
+            null
+        ]
+    }, 
+    "6882.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "6882.gif", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "6882.gif", 
+        "filename": "/c4x/CA/CA0.1/asset/6882.gif", 
+        "import_path": "6882.gif", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "6882-gif.jpg", 
+            null
+        ]
+    }, 
+    "7589.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "7589.gif", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "7589.gif", 
+        "filename": "/c4x/CA/CA0.1/asset/7589.gif", 
+        "import_path": "7589.gif", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "7589-gif.jpg", 
+            null
+        ]
+    }, 
+    "8183.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "8183.gif", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "8183.gif", 
+        "filename": "/c4x/CA/CA0.1/asset/8183.gif", 
+        "import_path": "8183.gif", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "8183-gif.jpg", 
+            null
+        ]
+    }, 
+    "8484.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "8484.gif", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "8484.gif", 
+        "filename": "/c4x/CA/CA0.1/asset/8484.gif", 
+        "import_path": "8484.gif", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "8484-gif.jpg", 
+            null
+        ]
+    }, 
+    "8694.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "8694.gif", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "8694.gif", 
+        "filename": "/c4x/CA/CA0.1/asset/8694.gif", 
+        "import_path": "8694.gif", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "8694-gif.jpg", 
+            null
+        ]
+    }, 
+    "8768.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "8768.gif", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "8768.gif", 
+        "filename": "/c4x/CA/CA0.1/asset/8768.gif", 
+        "import_path": "8768.gif", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "8768-gif.jpg", 
+            null
+        ]
+    }, 
+    "Ateam.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "Ateam.png", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "Ateam.png", 
+        "filename": "/c4x/CA/CA0.1/asset/Ateam.png", 
+        "import_path": "Ateam.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "Ateam-png.jpg", 
+            null
+        ]
+    }, 
+    "Cat.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "Cat.jpg", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "Cat.jpg", 
+        "filename": "/c4x/CA/CA0.1/asset/Cat.jpg", 
+        "import_path": "Cat.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "Cat.jpg", 
+            null
+        ]
+    }, 
+    "Collabs.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "Collabs.jpg", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "Collabs.jpg", 
+        "filename": "/c4x/CA/CA0.1/asset/Collabs.jpg", 
+        "import_path": "Collabs.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "Collabs.jpg", 
+            null
+        ]
+    }, 
+    "Jason.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "Jason.jpg", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "Jason.jpg", 
+        "filename": "/c4x/CA/CA0.1/asset/Jason.jpg", 
+        "import_path": "Jason.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "Jason.jpg", 
+            null
+        ]
+    }, 
+    "Peter.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "Peter.jpg", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "Peter.jpg", 
+        "filename": "/c4x/CA/CA0.1/asset/Peter.jpg", 
+        "import_path": "Peter.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "Peter.jpg", 
+            null
+        ]
+    }, 
+    "Yoav.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "Yoav.jpg", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "Yoav.jpg", 
+        "filename": "/c4x/CA/CA0.1/asset/Yoav.jpg", 
+        "import_path": "Yoav.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "Yoav.jpg", 
+            null
+        ]
+    }, 
+    "dog_and_deer.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "dog_and_deer.jpg", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "dog_and_deer.jpg", 
+        "filename": "/c4x/CA/CA0.1/asset/dog_and_deer.jpg", 
+        "import_path": "dog_and_deer.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "dog_and_deer.jpg", 
+            null
+        ]
+    }, 
+    "etsbuildings.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "etsbuildings.png", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "etsbuildings.png", 
+        "filename": "/c4x/CA/CA0.1/asset/etsbuildings.png", 
+        "import_path": "etsbuildings.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "etsbuildings-png.jpg", 
+            null
+        ]
+    }, 
+    "triangle.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "triangle.jpg", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "triangle.jpg", 
+        "filename": "/c4x/CA/CA0.1/asset/triangle.jpg", 
+        "import_path": "triangle.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "triangle.jpg", 
+            null
+        ]
+    }, 
+    "vf59.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CA0.1", 
+            "name": "vf59.jpg", 
+            "org": "CA", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "vf59.jpg", 
+        "filename": "/c4x/CA/CA0.1/asset/vf59.jpg", 
+        "import_path": "vf59.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CA", 
+            "CA0.1", 
+            "thumbnail", 
+            "vf59.jpg", 
+            null
+        ]
+    }
+}

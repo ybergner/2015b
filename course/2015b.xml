@@ -1,0 +1,4 @@
+<course advanced_modules="[&quot;cpsx&quot;]" course_image="Collabs.jpg" disable_progress_graph="true" display_coursenumber=" " display_name="CPSX Demo" display_organization=" " info_sidebar_name=" " invitation_only="true" is_new="true" ispublic="true" max_attempts="null" rerandomize="per_student" show_calculator="true" show_chat="true" showanswer="never" start="2015-03-09T23:00:00Z" use_latex_compiler="true">
+  <chapter url_name="CollabAssess301"/>
+  <wiki slug="CA.CA0.1.2015b"/>
+</course>

@@ -1,0 +1,4 @@
+<vertical display_name="Math">
+  <conditional url_name="003EM"/>
+  <cpsx url_name="b7cc0e1dda584d3996b3d37c62381c50" xblock-family="xblock.v1" form_text="CA1" wait_time="5" required_price="2"/>
+</vertical>

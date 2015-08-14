@@ -1,0 +1,10 @@
+<problem display_name="Intro" markdown="null" weight="0.0">
+  <p>The collaborative portion of this test is supposed to be solved with a partner. You may have to wait a few minutes for the partner to join the session. </p>
+  <p>Please indicate that you understand this instruction, then click the Ready to start button below to create a chat session and await your partner.</p>
+  <choiceresponse>
+    <checkboxgroup label="Select the answer that matches" direction="vertical">
+      <choice correct="true">I understand</choice>
+      <choice correct="false">No</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>
